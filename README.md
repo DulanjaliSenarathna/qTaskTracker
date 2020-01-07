@@ -1,5 +1,8 @@
 # QTaskTracker
 
-QTaskTracker is a application to tracking tasks in our day-to-day life, providing creating task and measure the time taken for each tasks
+QTaskTracker is a application to tracking tasks in our day-to-day life, providing creating task and measure the time taken for each tasks.
+
+
+# Created by Kandabada Senarathna , University Of Plymouth # 
 
 
