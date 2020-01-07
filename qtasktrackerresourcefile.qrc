@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>qtimetracker-icon.png</file>
+        <file>splash.png</file>
+    </qresource>
+</RCC>
